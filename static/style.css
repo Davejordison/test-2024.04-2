@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  --bg: #90c49b;
+  --card-bg: #b6c90d;
+  --list-bg: #e4760f;
+}
+
+body {
+    font-optical-sizing: auto;
+    background-color: var(--bg);
+}
